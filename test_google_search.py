@@ -6,7 +6,7 @@ result_text_selector = '[id="search"]'
 
 selene_search_query = 'selene'
 selenide_search_query = 'selenide'
-selene_search_result = 'selene: User-oriented Web UI browser tests in Python'
+selene_search_result = ': User-oriented Web UI browser tests in Python'
 
 
 def test_able_find_selene_in_google(open_google):
